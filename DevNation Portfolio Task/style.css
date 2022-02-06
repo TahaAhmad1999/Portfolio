@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    width: 100%;
+    height: 85vh;
+
+}
+.services img{
+    height: 300px;
+    width: 100%;
+}
+
+.footer p{
+    color: whitesmoke;
+    margin-bottom: 0%;
+    background-color: #ffa500;
+}
+.bg-black{
+    background-color: initial;
+}
+#right{
+    text-align: right;
+}
+.heading{
+    font-family: Biotif-Regular,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+/* footer{
+    padding-top: 20%;
+    padding-bottom: 20%;
+} */
